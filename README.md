@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Je suis un passioné d'informatique en génral, j'ai créer mon Github pour partager mes projets une fois finaliser pour en faire profiter le ⭐ peuple ⭐<br><br>Hors mon projet de hackintosh j'ai d'autres projets actuellement en privé, dès qu'ils seront un minimum exploitable ils seront mis en publique, voici les projets:</p>
+<p align="left">Je suis un passionné d'informatique en général, j'ai créer mon Github pour partager mes projets une fois finaliser pour en faire profiter le ⭐ peuple ⭐<br><br>Hors mon projet de hackintosh j'ai d'autres projets actuellement en privé, dès qu'ils seront un minimum exploitable ils seront mis en publique, voici les projets:</p>
 
 ###
 
